@@ -7,11 +7,7 @@ The architecture of the Classifier Model is as follows:<br>
 1 Embedding Layer, 1 LSTM Layer, 1 Dense Layer and Dropout layers in between to avoid overfitting.<br>
 The batch size of 32 for 5 epochs of training.<br><br>
 The accuracy on the training dataset is 96% and 94% on the test dataset.<br><br>
-Accuracy:<br>
-![Accuracy](Accuracy.JPG)
-<br>
-Loss:<br>
-![Loss](Loss.JPG)
+![Plot](Plot.JPG)
 <br>
 Predicting the user sentiment:<br>
 ![Prediction](prediction.JPG)
